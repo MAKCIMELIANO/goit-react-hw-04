@@ -2,7 +2,7 @@ import css from './App.module.css';
 import { Toaster } from 'react-hot-toast';
 import { useState } from 'react';
 import ImageGallery from '../ImageGallery/ImageGallery';
-import FetchPhotos from '../FetchPhotos/fetchPhotos';
+import FetchPhotos from '../FetchPhotos/FetchPhotos';
 import Loader from '../Loader/Loader';
 import ErrorMessage from '../ErrorMessage/ErrorMessage';
 import SearchBar from '../SearchBar/SearchBar';
